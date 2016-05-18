@@ -19,6 +19,8 @@ organized? How would branches help?
 	different features that you are not sure if you want to combine yet.
 
 How do the diagrams help you visualize the branch structure?
+	It shows when different versions of a project split up and help you determine 
+	which features are missing between different versions.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
