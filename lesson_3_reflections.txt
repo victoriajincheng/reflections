@@ -12,7 +12,9 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks: when 2 people want 2 copies of a repository
+	Clones: when you want 2 copies of a repository for yourself
+	Branches: when you want to try out differences in code yourself
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
