@@ -31,4 +31,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you're not sure about a change and want others to look at it before merging
+	it with the main project. However, with the other way, you don't have to marge 
+	any branches.
